@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Piyush Negi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align = "center"  src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height= "300px" width = "300px"/>
+<h1 align = "center"><img   src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height= "300px" width = "300px"/></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushxyz1&label=Profile%20views&color=0e75b6&style=flat" alt="piyushxyz1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushxyz1" alt="piyushxyz1" /></a> </p>
