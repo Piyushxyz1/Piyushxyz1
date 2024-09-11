@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-"https://1.bp.blogspot.com/-7A4WynwLsM"
-"https://piyushxyz1.io"
+<img align = "center"  src ="https://1.bp.blogspot.com/-7A4WynwLsM"/>
+
 <h1 align="center">Hi 👋, I'm Piyush Negi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align = "center"  src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height= "300px" width = "300px"/>
