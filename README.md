@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<img align = "center"  src ="https://1.bp.blogspot.com/-7A4WynwLsM"/>
+
 
 <h1 align="center">Hi 👋, I'm Piyush Negi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
